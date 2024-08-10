@@ -1,3 +1,4 @@
 # vi
 This is my first Git Repository
-Author-my Name is Qaboos Ghori
+<br>
+<h1>Author-my Name is Qaboos Ghori<\h1>
